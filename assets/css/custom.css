@@ -32,7 +32,7 @@
 /* XLarge screens */
 @media only screen and (min-width: 90.063em) { 
     .test {
-        color: pink;
+        color: purple;
     }
 } /* min-width 1441px, xlarge screens */
 
